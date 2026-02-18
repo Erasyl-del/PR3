@@ -1,0 +1,12 @@
+src/main/java/
+ ├─ Document.java
+ ├─ Report.java
+ ├─ Resume.java
+ ├─ Letter.java
+ ├─ Invoice.java
+ ├─ DocumentCreator.java
+ ├─ ReportCreator.java
+ ├─ ResumeCreator.java
+ ├─ LetterCreator.java
+ ├─ InvoiceCreator.java
+ └─ Main.java
